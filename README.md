@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sromanov103&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://www.memedroid.com/memes/random' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sromanov103&icon=8&color=8)](https://visitcount.itsvg.in)
