@@ -15,7 +15,30 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sromanov103&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://www.memedroid.com/memes/random' style="height: 400px;"/>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Случайный мем</title>
+</head>
+<body>
+    <h1>😂 Random Dev Meme</h1>
+    <img id="meme" src="" style="height: 400px;" />
+    <script>
+        fetch('https://api.imgflip.com/get_memes')
+            .then(response => response.json())
+            .then(data => {
+                const memes = data.data.memes; // Получаем массив мемов
+                const randomMeme = memes[Math.floor(Math.random() * memes.length)]; // Выбираем случайный мем
+                const memeImage = randomMeme.url; // URL изображения мема
+
+                document.getElementById('meme').src = memeImage; // Установка изображения в элемент <img>
+            })
+            .catch(error => console.error('Ошибка:', error));
+    </script>
+</body>
+</html>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sromanov103&icon=8&color=8)](https://visitcount.itsvg.in)
