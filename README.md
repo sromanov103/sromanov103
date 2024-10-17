@@ -1,18 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
-</div>
 <h1>
   Hello World
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pmb2hiajlib3c3amt6ZDhwdjF0YnlvbGhzcHJzeHMwNm5lMW9vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60px"/>
 </h1>
 
-# 💫 About Me:
-🔭 My name is Sergey, I am a beginner programmer.<br>
-🌱I have an incomplete higher education in programming.<br>
-🤝 I'm studying Al Sweigart's book Automating Routine Tasks with Python.<br>
-💬 I'm learning Python, C++, C#<br>
-⚡ I am studying courses on neural networks.<br>
+# 🧾  About Me:
+🔭 My name is Sergey, I am a programmer.<br>
+🌱 I am studying programming at the higher education level.<br>
+💬 I am mastering the programming languages ​​Python, C++, C#, striving for versatility in development.<br>
+⚡ I am mastering advanced artificial intelligence technologies through specialized courses on neural networks.<br>
 
+💫 I am a Data Scientist in the field of development of neural networks and artificial intelligence. My main specialization is programming and development. The desire to learn new things and solve complex problems led me to programming, because I am always passionate about technology, actively interested in the latest achievements in the field of artificial intelligence and machine learning, which allows me to master new technologies and apply them in practice.Changing motivation gives you the opportunity to work on new ones, implement projects, learn and grow as a data science specialist.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/polovoyagressor) 
@@ -26,8 +23,6 @@
 <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sromanov103&layout=compact&theme=vision-friendly-dark)<br>
 
 
-### 😂 Random Dev Meme
-<img src='https://www.memedroid.com/memes/random' style="height: 400px;"/>
+## 🚩Contribution
 
----
-[![](https://visitcount.itsvg.in/api?id=sromanov103&icon=8&color=8)](https://visitcount.itsvg.in)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/happydeveloper0305/happydeveloper0305/output/github-contribution-grid-snake-dark.svg)
