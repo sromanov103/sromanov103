@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pmb2hiajlib3c3amt6ZDhwdjF0YnlvbGhzcHJzeHMwNm5lMW9vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="60px"/>
 </h1>
 
-# 🧾  About Me:
+# 🧾  About Me: 
 🔭 My name is Sergey, I am a programmer.<br>
 🌱 I am studying programming at the higher education level.<br>
 💬 I am mastering the programming languages ​​Python, C++, C#, striving for versatility in development.<br>
@@ -19,10 +19,11 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 # 📊 GitHub Stats:
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sromanov103&theme=dark&background=000000)
-<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sromanov103&layout=compact&theme=vision-friendly-dark)<br>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sromanov103&theme=gruvbox&background=1d2021)
 
 
-## 🚩Contribution
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sromanov103&layout=compact&theme=gruvbox&bg_color=1d2021)
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/sromanov103/sromanov103/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sromanov103&theme=gruvbox&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Viewers](https://img.shields.io/github/watchers/sromanov103/sromanov103?style=social)
