@@ -11,6 +11,24 @@
 
 💫 I am a Data Scientist in the field of development of neural networks and artificial intelligence. My main specialization is programming and development. The desire to learn new things and solve complex problems led me to programming, because I am always passionate about technology, actively interested in the latest achievements in the field of artificial intelligence and machine learning, which allows me to master new technologies and apply them in practice.Changing motivation gives you the opportunity to work on new ones, implement projects, learn and grow as a data science specialist.
 
+# PET проекты:
+📌 Генерация изображений с помощью вариационных автокодировщиков (VAE) с применением архитектуры StyleGAN
+Провел анализ моделей для сравнения и выявления наиболее эффективного способа генерации изображения лиц. [Ссылка на проект](https://github.com/sromanov103/face_generation)
+
+Стек: Python, PyTorch, TensorFlow, Keras, NumPy, Pandas, OpenCV(cv2).
+
+
+📌 Телеграм-бот для квизов
+Этот проект представляет собой телеграм-бота, который позволяет пользователям участвовать в интерактивных квизах. [Ссылка на проект](https://github.com/sromanov103/Python-Chat-Bot)
+
+Стек: Python, aiogram, aiosqlite, nest_asyncio
+
+
+📌 Нейро-сотрудники для онлайн-магазина
+Этот проект представляет собой разработку команды нейро-сотрудников, которые будут работать в онлайн-магазине, обеспечивая высококачественное обслуживание клиентов и эффективное управление продажами. [Ссылка на проект](https://github.com/sromanov103/neuro-staff)
+
+Стек: Python, PyTorch, Transformers, Peft, NumPy, Pandas, Llama Index, OpenAI, Gradio, Google Colab
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/polovoyagressor) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paren_iz_alupki_) 
