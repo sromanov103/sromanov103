@@ -12,30 +12,35 @@
 💫 I am a Data Scientist in the field of development of neural networks and artificial intelligence. My main specialization is programming and development. The desire to learn new things and solve complex problems led me to programming, because I am always passionate about technology, actively interested in the latest achievements in the field of artificial intelligence and machine learning, which allows me to master new technologies and apply them in practice.Changing motivation gives you the opportunity to work on new ones, implement projects, learn and grow as a data science specialist.
 
 # PET проекты:
-📌 Генерация изображений с помощью вариационных автокодировщиков (VAE) с применением архитектуры StyleGAN
+📌 **Генерация изображений с помощью вариационных автокодировщиков (VAE) с применением архитектуры StyleGAN**
+
 Провел анализ моделей для сравнения и выявления наиболее эффективного способа генерации изображения лиц. [Ссылка на проект](https://github.com/sromanov103/face_generation)
 
-Стек: Python, PyTorch, TensorFlow, Keras, NumPy, Pandas, OpenCV(cv2), Google Colab
+**Стек:** Python, PyTorch, TensorFlow, Keras, NumPy, Pandas, OpenCV(cv2), Google Colab
 
-📌 Телеграм-бот для квизов
+📌 **Телеграм-бот для квизов**
+
 Этот проект представляет собой телеграм-бота, который позволяет пользователям участвовать в интерактивных квизах. [Ссылка на проект](https://github.com/sromanov103/Python-Chat-Bot)
 
-Стек: Python, aiogram, aiosqlite, nest_asyncio, Google Colab
+**Стек:** Python, aiogram, aiosqlite, nest_asyncio, Google Colab
 
-📌 Нейро-сотрудники для онлайн-магазина
+📌 **Нейро-сотрудники для онлайн-магазина**
+
 Этот проект представляет собой разработку команды нейро-сотрудников, которые будут работать в онлайн-магазине, обеспечивая высококачественное обслуживание клиентов и эффективное управление продажами. [Ссылка на проект](https://github.com/sromanov103/neuro-staff)
 
-Стек: Python, PyTorch, Transformers, Peft, NumPy, Pandas, Llama Index, OpenAI, Gradio, Google Colab
+**Стек:** Python, PyTorch, Transformers, Peft, NumPy, Pandas, Llama Index, OpenAI, Gradio, Google Colab
 
-📌 Распознавание COVID-19
+📌 **Распознавание COVID-19**
+
 Этот проект представляет собой реализацию модели для распознавания COVID-19 с использованием свёрточных нейронных сетей (CNN). Модель обучается на наборе данных рентгеновских снимков грудной клетки и способна сегментировать области, пораженные COVID-19, на изображениях. [Ссылка на проект](https://github.com/sromanov103/covid_19)
 
-Стек: Python, TensorFlow, Keras, NumPy, Pandas, OpenDatasets, Albumentationsx, Google Colab
+**Стек:** Python, TensorFlow, Keras, NumPy, Pandas, OpenDatasets, Albumentationsx, Google Colab
 
-📌 Предсказание породы собак
+📌 **Предсказание породы собак**
+
 Этот проект реализует модель глубокого обучения, которая предсказывает породу собаки на основе изображения. Модель обучена на наборе данных Stanford Dogs и использует архитектуру EfficientNetV2S для достижения высокой точности классификации. [Ссылка на проект](https://github.com/sromanov103/Gradio_breed)
 
-Стек: Python, Keras, TensorFlow, Streamlit, Matplotlib, Google Colab
+**Стек:** Python, Keras, TensorFlow, Streamlit, Matplotlib, Google Colab
 
 
 ## 🌐 Socials:
