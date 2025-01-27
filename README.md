@@ -12,6 +12,12 @@
 💫 I am a Data Scientist in the field of development of neural networks and artificial intelligence. My main specialization is programming and development. The desire to learn new things and solve complex problems led me to programming, because I am always passionate about technology, actively interested in the latest achievements in the field of artificial intelligence and machine learning, which allows me to master new technologies and apply them in practice.Changing motivation gives you the opportunity to work on new ones, implement projects, learn and grow as a data science specialist.
 
 # PET проекты:
+📌 **Приложение AI Chat с системой аутентификации.**
+
+Чат-приложение, использующее API OpenRouter для взаимодействия с различными моделями искусственного интеллекта. [Ссылка на проект](https://github.com/sromanov103/ChatApplication)
+
+**Стек:** Python, Flet, OpenRouter API, sqlite3, json, python-dotenv, requests, Visual Studio Code
+
 📌 **Генерация изображений с помощью вариационных автокодировщиков (VAE) с применением архитектуры StyleGAN**
 
 Провел анализ моделей для сравнения и выявления наиболее эффективного способа генерации изображения лиц. [Ссылка на проект](https://github.com/sromanov103/face_generation)
