@@ -4,12 +4,12 @@
 </h1>
 
 # 🧾  About Me: 
-🔭 My name is Sergey, I am a programmer.<br>
-🌱 I am studying programming at the higher education level.<br>
-💬 I am mastering the programming languages ​​Python, C++, C#, striving for versatility in development.<br>
-⚡ I am mastering advanced artificial intelligence technologies through specialized courses on neural networks.<br>
+🔭 Меня зовут Сергей, я программист.<br> 
+🌱 Я изучаю программирование в высшем образовательном учреждении.<br> 
+💬 Я осваиваю языки программирования Python, C++, C#, стремясь к универсальности в разработке.<br> 
+⚡ Я осваиваю передовые технологии искусственного интеллекта через специализированные курсы по нейронным сетям.<br>
 
-💫 I am a Data Scientist in the field of development of neural networks and artificial intelligence. My main specialization is programming and development. The desire to learn new things and solve complex problems led me to programming, because I am always passionate about technology, actively interested in the latest achievements in the field of artificial intelligence and machine learning, which allows me to master new technologies and apply them in practice.Changing motivation gives you the opportunity to work on new ones, implement projects, learn and grow as a data science specialist.
+💫 Я являюсь Data Scientist в области разработки нейронных сетей и искусственного интеллекта. Моя основная специализация - программирование и разработка. Желание учиться новому и решать сложные проблемы привело меня к программированию, потому что я всегда увлекался технологиями, активно интересуюсь последними достижениями в области искусственного интеллекта и машинного обучения, что позволяет мне осваивать новые технологии и применять их на практике. Мотивация дает возможность работать над новыми проектами, реализовывать идеи, учиться и расти как специалист по Data Science.
 
 # PET проекты:
 📌 **Приложение AI Chat с системой аутентификации.**
